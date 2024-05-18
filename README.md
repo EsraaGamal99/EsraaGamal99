@@ -1,33 +1,66 @@
-<h1 align="center">Hi 👋, I'm Esraa Gamal</h1>
-<h3 align="center"> Flutter developer </h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcom+to;+Esraa's+Gitgub!+😊;" />
+</div>
 
+<h3 align="center"> Flutter developer 👩‍💻</h3>
+
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsraaGamal99&label=Profile%20views&color=0e75b6&style=flat" alt="EsraaGamal99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsraaGamal99" alt="EsraaGamal99" /></a> </p>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
 
-- 👩‍💻 I’m currently working on [HOPE](https://gethopecard.com).
+## 🙋‍♀️ About Me:
+- 👩‍💻 I’m currently working as Flutter Developer on [HOPE](https://gethopecard.com).
 
 - ✨ I'm looking for opportunities with an expert team of developers.
 
-- 💬 Ask me about **Dart, Flutter, C++, Java**.
+- 💻 I'm avilable to relocate and work onsite.
 
-- 📫 How to reach me **esraa66m@gmail.com**.
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🤝 Connect With Me:
+<br>
+<div align="center">
+    <a href="https://www.linkedin.com/in/EsraaGamal99/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    
+  
+  <a href="mailto:esraa66m@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=EsraaGamal999">
+    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</div>
 
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<a href="https://linkedin.com/in/esraagamal99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esraagamal99" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+<br>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,flutter,dart,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman,sqlite" /><br>
+</div>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-  </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+ <br>
+ 
+## 📊 My Stats:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsraaGamal99" alt="EsraaGamal99" /></a> </p>
 
 <div align="center"> 
      <a href="">
@@ -36,6 +69,4 @@
     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaGamal99&theme=react&line_height=40&hide=css"/>
     </a>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaGamal99&" alt="EsraaGamal99" /></p>
