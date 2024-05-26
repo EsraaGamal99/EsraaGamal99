@@ -33,9 +33,7 @@
   <a href="mailto:esraa66m@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=EsraaGamal999">
-    <img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+ 
 </div>
 
 <br>
@@ -58,7 +56,6 @@
  <br>
  
 ## 📊 My Stats:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsraaGamal99" alt="EsraaGamal99" /></a> </p>
 
 <div align="center"> 
      <a href="">
