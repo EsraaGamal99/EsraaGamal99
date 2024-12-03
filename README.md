@@ -10,7 +10,7 @@
 ##
 
 ## 🙋‍♀️ About Me:
-- 👩‍💻 I’m currently working as Flutter Developer on [ECMPP Company](https://www.linkedin.com/company/ecmpp/).
+- 👩‍💻 I’m currently working as Flutter Developer at [ECMPP Company](https://www.linkedin.com/company/ecmpp/).
 
 - ✨ I'm looking for opportunities with an expert team of developers.
 
